@@ -1,7 +1,7 @@
 <H3> Name :JEEVITHA E </H3>
 <H3>Register No. 212222230054</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:08-09-2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
